@@ -4,7 +4,7 @@
 Created on Mon Aug 12 15:51:13 2019
 
 @author: viveksinghbhadouriya
- This code will hel you to setup the Python and Microstrtagey (version 10.11 and above)
+This code will help you to setup the Python connection with Microstrtagey (version 10.11 and above)
 
  Prerequisite: Mistrio installation
  pip install mstrio
